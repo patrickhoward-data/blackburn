@@ -1,9 +1,9 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://www.tacosoverflow.com/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "The Ice Time Project"
 theme = "blackburn"
 author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+copyright = "&copy; 2022. All rights reserved."
 canonifyurls = true
 paginate = 10
 
